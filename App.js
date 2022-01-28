@@ -20,12 +20,12 @@ function App() {
 
       <View style={styles.mother}>
       <Text style={styles.text}>Email</Text>
-      <Text style={styles.text}>something@mr.ceo</Text>
+      <Text style={styles.text}>ceo@gmail.com</Text>
       </View>
 
       <View style={styles.mother}>
       <Text style={styles.text}>Gender</Text>
-      <Text style={styles.text}>Kwame</Text>
+      <Text style={styles.text}>Male</Text>
       </View>
 
     </SafeAreaView>
